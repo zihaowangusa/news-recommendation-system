@@ -1,0 +1,14 @@
+lxml
+git+https://github.com/caomingkai/newspaper
+pika
+python-dateutil
+python-jsonrpc
+pymongo
+redis
+requests
+sklearn
+numpy
+scipy
+tensorflow
+pandas
+watchdog
